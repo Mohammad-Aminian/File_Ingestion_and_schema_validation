@@ -1,0 +1,16 @@
+file_type: csv
+dataset_name: file
+file_name: Rate
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - 198801
+      - 1
+      - 103
+      - 100
+      - 000000190
+      - 0
+      - 35843
+      - 34353
